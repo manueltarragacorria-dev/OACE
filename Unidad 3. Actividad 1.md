@@ -14,3 +14,11 @@ cd / -> mkdir iso -> cd iso -> mkdir 1_eval -> cd 1_eval -> mkdir teoria -> cd t
 md ..\..\..\..\3_eval\teoriaa ..\..\..\..\3_eval\teoriab
 ```
 <img width="774" height="99" alt="imagen" src="https://github.com/user-attachments/assets/136bf72b-5b8b-4877-b67a-c2435274b5b2" />
+
+## 3.- Sitúate en el directorio iso. Crea el directorio (2_eval).
+
+```
+cd C:\iso -> mkdir 2_eval
+```
+<img width="405" height="99" alt="imagen" src="https://github.com/user-attachments/assets/dc370e1d-f086-43da-ae6e-7e52a942bb0b" />
+
