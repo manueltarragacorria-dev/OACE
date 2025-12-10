@@ -25,3 +25,10 @@ cd C:\iso -> mkdir 2_eval
 
 <img width="405" height="99" alt="imagen" src="https://github.com/user-attachments/assets/dc370e1d-f086-43da-ae6e-7e52a942bb0b" />
 
+## 4.- Sitúate en el directorio 2_eval. Crea los directorios (prac1, prac2, prac3) con una única sentencia
+
+```
+cd 2_eval -> mkdir prac1 prac2 prac3
+```
+
+<img width="376" height="99" alt="imagen" src="https://github.com/user-attachments/assets/f9e6e586-8db2-47ba-9748-5d45322e0f20" />
