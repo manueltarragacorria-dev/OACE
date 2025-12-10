@@ -5,3 +5,9 @@
 ```
 cd / -> mkdir iso -> cd iso -> mkdir 1_eval 2_eval 3_eval
 ```
+
+<img width="465" height="449" alt="imagen" src="https://github.com/user-attachments/assets/6fb10220-cf2b-493d-98af-5c40336b4a28" />
+
+
+
+
