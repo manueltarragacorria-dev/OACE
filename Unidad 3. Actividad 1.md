@@ -5,9 +5,9 @@
 ```
 cd / -> mkdir iso -> cd iso -> mkdir 1_eval 2_eval 3_eval
 ```
+<img width="464" height="552" alt="imagen" src="https://github.com/user-attachments/assets/f6585aaf-32e2-4c35-8571-83b1d24fab8f" />
 
-<img width="465" height="449" alt="imagen" src="https://github.com/user-attachments/assets/6fb10220-cf2b-493d-98af-5c40336b4a28" />
 
-
+## 2.- Sitúate en el directorio p1b. Crea los directorios (3_eval, teoriaa, teoriab) utilizando trayectorias relativas.
 
 
