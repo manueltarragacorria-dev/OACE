@@ -59,7 +59,15 @@ rmdir C:\iso\2_eval\prac3\prac31 C:\iso\2_eval\prac3\prac311 -> rmdir C:\iso\3_e
 
 
 
+
+
+
+
 <img width="321" height="98" alt="imagen" src="https://github.com/user-attachments/assets/5d5efd47-9638-4b3c-9cd5-5bb4bf5f9bc8" />
+
+
+
+
 
 
 
