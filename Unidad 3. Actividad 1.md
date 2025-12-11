@@ -85,9 +85,11 @@ move prac4 C\:iso\3_eval
 
 <img width="327" height="79" alt="imagen" src="https://github.com/user-attachments/assets/288cb16f-ad79-4165-8442-e1a217c8e8e0" />
 
+## 11.- Desde aquí elimina los directorios (1_eval, 3_eval
 
-
-
-
+```
+rmdir ..\1_eval ..\3_eval
+```
+<img width="343" height="93" alt="imagen" src="https://github.com/user-attachments/assets/98a250e5-d07f-49bb-9b3d-acb3c33b5078" />
 
 
