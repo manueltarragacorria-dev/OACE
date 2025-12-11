@@ -66,12 +66,24 @@ rmdir C:\iso\2_eval\prac3\prac31 C:\iso\2_eval\prac3\prac311 -> rmdir C:\iso\3_e
 ```
 cd 2_eval
 ```
+<img width="136" height="98" alt="imagen" src="https://github.com/user-attachments/assets/6bb4bb96-173f-47b6-9cfc-e0963ae6dc6e" />
 
-<img width="136" height="98" alt="imagen" src="https://github.com/user-attachments/assets/322ef737-91d9-480a-9d0d-1d8ee252ad98" />
+## 9.- Desde aquí cambia el nombre del directorio prac1 por el de prac4.
+
+```
+ren prac1 prac4
+```
+
+<img width="235" height="22" alt="imagen" src="https://github.com/user-attachments/assets/907881ad-e099-4d3d-95fe-ff85988de308" />
 
 
+## 10.- Desde aquí sitúa el directorio prac4 dentro del directorio prac3.
 
+```
+move prac4 C\:iso\3_eval
+```
 
+<img width="327" height="79" alt="imagen" src="https://github.com/user-attachments/assets/288cb16f-ad79-4165-8442-e1a217c8e8e0" />
 
 
 
