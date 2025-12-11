@@ -41,3 +41,19 @@ mkdir prac31 prac311
 
 <img width="333" height="101" alt="imagen" src="https://github.com/user-attachments/assets/4ed1906b-1c36-4bf8-ada9-63e1f8045782" />
 
+## 6.- Accede al directorio iso usando trayectoria absoluta con una única sentencia
+
+```
+cd C:\iso
+```
+
+<img width="238" height="101" alt="imagen" src="https://github.com/user-attachments/assets/233871cd-d149-4b23-8d58-20e97efb7b52" />
+
+
+
+
+
+
+
+
+
