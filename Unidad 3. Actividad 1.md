@@ -57,21 +57,20 @@ rmdir C:\iso\2_eval\prac3\prac31 C:\iso\2_eval\prac3\prac311 -> rmdir C:\iso\3_e
 
 <img width="549" height="63" alt="imagen" src="https://github.com/user-attachments/assets/5fe1810d-8ccd-4621-8c9e-561c2b04878f" />
 
-
-
-
-
-
-
 <img width="321" height="98" alt="imagen" src="https://github.com/user-attachments/assets/5d5efd47-9638-4b3c-9cd5-5bb4bf5f9bc8" />
 
-
-
-
-
-
-
 <img width="549" height="129" alt="imagen" src="https://github.com/user-attachments/assets/0dbe1f71-7683-4ce1-aca7-9374e0d30896" />
+
+## 8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
+
+```
+cd 2_eval
+```
+
+<img width="136" height="98" alt="imagen" src="https://github.com/user-attachments/assets/322ef737-91d9-480a-9d0d-1d8ee252ad98" />
+
+
+
 
 
 
