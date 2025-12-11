@@ -32,3 +32,12 @@ cd 2_eval -> mkdir prac1 prac2 prac3
 ```
 
 <img width="376" height="99" alt="imagen" src="https://github.com/user-attachments/assets/f9e6e586-8db2-47ba-9748-5d45322e0f20" />
+
+## 5.- Sitúate en el directorio prac3. Crea los directorios (prac31, prac311) usando trayectorias relativas.
+
+```
+mkdir prac31 prac311
+```
+
+<img width="333" height="101" alt="imagen" src="https://github.com/user-attachments/assets/4ed1906b-1c36-4bf8-ada9-63e1f8045782" />
+
