@@ -88,8 +88,29 @@ move prac4 C\:iso\3_eval
 ## 11.- Desde aquí elimina los directorios (1_eval, 3_eval
 
 ```
-rmdir ..\1_eval ..\3_eval
+rmdir ..\1_eval ..\3_eval /s
 ```
 <img width="343" height="93" alt="imagen" src="https://github.com/user-attachments/assets/98a250e5-d07f-49bb-9b3d-acb3c33b5078" />
+
+## 12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
+
+```
+tree
+```
+
+<img width="424" height="153" alt="imagen" src="https://github.com/user-attachments/assets/bf52e7e3-f563-4fb7-92bf-ee1a7a8dfa0d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
