@@ -49,6 +49,15 @@ cd C:\iso
 
 <img width="238" height="101" alt="imagen" src="https://github.com/user-attachments/assets/233871cd-d149-4b23-8d58-20e97efb7b52" />
 
+## 7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
+
+```
+rmdir C:\iso\2_eval\prac3\prac31 C:\iso\2_eval\prac3\prac311 -> rmdir C:\iso\3_eval\teoriaa C:\iso\3_eval\prac3\teriab -> rmdir C:\iso\1_eval\teoria\t1 C:\iso\1_eval\practica\p1a C:\iso\1_eval\practica\p1b
+```
+
+<img width="549" height="63" alt="imagen" src="https://github.com/user-attachments/assets/5fe1810d-8ccd-4621-8c9e-561c2b04878f" />
+
+<img width="549" height="129" alt="imagen" src="https://github.com/user-attachments/assets/0dbe1f71-7683-4ce1-aca7-9374e0d30896" />
 
 
 
