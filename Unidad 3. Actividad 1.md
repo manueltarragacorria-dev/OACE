@@ -19,7 +19,7 @@ md ..\..\..\..\3_eval\teoriaa ..\..\..\..\3_eval\teoriab
 
 <img width="774" height="99" alt="imagen" src="https://github.com/user-attachments/assets/136bf72b-5b8b-4877-b67a-c2435274b5b2" />
 
-### 3.- Sitúate en el directorio iso. Crea el directorio (2_eval).
+### 3.- Sitúate en el directorio iso. Crea el directorio (2_eval). 	16 minuts
 
 ```
 cd C:\iso -> mkdir 2_eval
@@ -54,7 +54,7 @@ cd C:\iso
 ### 7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
 
 ```
-rmdir C:\iso\2_eval\prac3\prac31 C:\iso\2_eval\prac3\prac311 -> rmdir C:\iso\3_eval\teoriaa C:\iso\3_eval\prac3\teriab -> rmdir C:\iso\1_eval\teoria\t1 C:\iso\1_eval\practica\p1a C:\iso\1_eval\practica\p1b
+rmdir C:\iso\2_eval\prac3\prac31 C:\iso\2_eval\prac3\prac311 -> rmdir C:\iso\3_eval\teoriaa C:\iso\3_eval\prac3\teriab -> rmdir C:\iso\1_eval\teoria\t1 C:\ 	16 minutsiso\1_eval\practica\p1a C:\iso\1_eval\practica\p1b
 ```
 
 <img width="549" height="63" alt="imagen" src="https://github.com/user-attachments/assets/5fe1810d-8ccd-4621-8c9e-561c2b04878f" />
@@ -112,8 +112,13 @@ cd /
 
 ## Actividad 2. - Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada paso deberás transcribir todas las sentencias utilizadas.
 
+## 1.- Sitúate en el directorio iso de la unidad C:. Crea con una única sentencia (p1, in, e1, e2).
 
+```
+cd iso -> md p1 -> cd p1 -> md in e1 e2
+```
 
+<img width="357" height="329" alt="imagen" src="https://github.com/user-attachments/assets/687a3a46-643e-4082-8180-c3a77b72c6ae" />
 
 
 
