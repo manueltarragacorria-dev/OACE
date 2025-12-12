@@ -100,10 +100,13 @@ tree
 
 <img width="424" height="153" alt="imagen" src="https://github.com/user-attachments/assets/bf52e7e3-f563-4fb7-92bf-ee1a7a8dfa0d" />
 
+## 13.- Accede directamente a la raíz (a la unidad en la que te encuentras)
 
+```
+cd /
+```
 
-
-
+<img width="158" height="71" alt="imagen" src="https://github.com/user-attachments/assets/556bb005-3de7-42d2-81a6-b9c0703309c2" />
 
 
 
