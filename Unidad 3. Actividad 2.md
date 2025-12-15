@@ -16,6 +16,10 @@
 <img width="770" height="106" alt="imagen" src="https://github.com/user-attachments/assets/c3187337-cd46-4a70-9214-95296eac6894" />
 
 ## 5.- Crea en D un fichero llamado Nombre.txt que contenga tu nombre y otro fichero llamado Apellido.txt que contenga tu primer apellido.
+<img width="766" height="203" alt="imagen" src="https://github.com/user-attachments/assets/a7f6305a-093b-4b46-a69e-fd9dd2037f89" />
+
+## 6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
+6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
 
 
 
