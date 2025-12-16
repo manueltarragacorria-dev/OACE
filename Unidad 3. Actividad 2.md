@@ -15,10 +15,14 @@ mkdir C:\SMM\A C:\SMM\B C:\SMM\C C:\SMM\D
 <img width="748" height="302" alt="imagen" src="https://github.com/user-attachments/assets/4f326207-b8b2-42e7-a9c5-7baa52b9cc2f" />
 
 ## 2.- Sitúate en D y desde allí crea A1, A2, A21, A22, A221 con una única sentencia utilizando trayectoria relativa.
-<img width="744" height="121" alt="imagen" src="https://github.com/user-attachments/assets/2765159f-d432-4275-85a6-b57a0629dcad" />
+
+```
+cd D -> mkdir A1 A2 A21 A22 A221
+```
+img width="744" height="121" alt="imagen" src="https://github.com/user-attachments/assets/2765159f-d432-4275-85a6-b57a0629dcad" />
 
 ## 3.- Sitúate en A221 y desde allí crea B1, B11, B111, B112 con una única sentencia y utilizando trayectoria relativa.
-<img width="742" height="119" alt="imagen" src="https://github.com/user-attachments/assets/f43ee3fd-e4e6-4f0a-ab1a-fbe98f521064" />
+<img width="742" height="119" alt="imagen" srcc="https://github.com/user-attachments/assets/f43ee3fd-e4e6-4f0a-ab1a-fbe<98f521064"/>
 
 ## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
 <img width="770" height="106" alt="imagen" src="https://github.com/user-attachments/assets/c3187337-cd46-4a70-9214-95296eac6894" />
