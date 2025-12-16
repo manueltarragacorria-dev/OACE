@@ -36,13 +36,14 @@ cd A221 mkdir B1 B11 B111 B112
 <img width="766" height="203" alt="imagen" src="https://github.com/user-attachments/assets/a7f6305a-093b-4b46-a69e-fd9dd2037f89" />
 
 ## 6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
-6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
 
 ```
 type Nombre.txt > union.txt -> type Apellido.txt >> union.txt
 ```
 
 <img width="323" height="92" alt="imagen" src="https://github.com/user-attachments/assets/fa2aa141-273c-47d1-9d33-65d8795aee5c" />
+
+## 7.- Mueve el fichero union.txt a A21.
 
 
 
