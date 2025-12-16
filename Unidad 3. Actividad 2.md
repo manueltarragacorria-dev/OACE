@@ -4,7 +4,8 @@
 
 ```
 prompt mtarraga $p^>
-```<img width="747" height="244" alt="imagen" src="https://github.com/user-attachments/assets/a85d6e02-5d4a-4253-a334-aa8a450aa47a" />
+```
+<img width="747" height="244" alt="imagen" src="https://github.com/user-attachments/assets/a85d6e02-5d4a-4253-a334-aa8a450aa47a" />
 
 # 1.- Situado en smm crea los directorios A, B, C y D. Utiliza trayectoria absoluta.
 <img width="748" height="302" alt="imagen" src="https://github.com/user-attachments/assets/4f326207-b8b2-42e7-a9c5-7baa52b9cc2f" />
