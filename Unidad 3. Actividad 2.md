@@ -26,6 +26,7 @@ cd D -> mkdir A1 A2 A21 A22 A221
 ```
 cd A221 mkdir B1 B11 B111 B112
 ```
+
 <img width="742" height="119" alt="imagen" srcc="https://github.com/user-attachments/assets/f43ee3fd-e4e6-4f0a-ab1a-fbe<98f521064"/>
 
 ## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
