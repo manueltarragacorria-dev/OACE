@@ -12,7 +12,7 @@ prompt mtarraga $p^>
 ```
 mkdir C:\SMM\A C:\SMM\B C:\SMM\C C:\SMM\D
 ```
-img width="748" height="302" alt="imagen" src="https://github.com/user-attachments/assets/4f326207-b8b2-42e7-a9c5-7baa52b9cc2f" />
+<img width="748" height="302" alt="imagen" src="https://github.com/user-attachments/assets/4f326207-b8b2-42e7-a9c5-7baa52b9cc2f" />
 
 ## 2.- Sitúate en D y desde allí crea A1, A2, A21, A22, A221 con una única sentencia utilizando trayectoria relativa.
 <img width="744" height="121" alt="imagen" src="https://github.com/user-attachments/assets/2765159f-d432-4275-85a6-b57a0629dcad" />
