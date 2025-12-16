@@ -38,7 +38,11 @@ cd A221 mkdir B1 B11 B111 B112
 ## 6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
 6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
 
+```
+type Nombre.txt > union.txt -> type Apellido.txt >> union.txt
+```
 
+<img width="323" height="92" alt="imagen" src="https://github.com/user-attachments/assets/fa2aa141-273c-47d1-9d33-65d8795aee5c" />
 
 
 
