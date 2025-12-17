@@ -6,8 +6,7 @@ help
 <img width="605" height="320" alt="imagen" src="https://github.com/user-attachments/assets/acb7659b-2ffd-48fe-abe2-b3e9a0028822" />
 
 ## 2. Muestra la ayuda para el comando DIR
-´´´
+```
 dir
 ```
 <img width="605" height="320" alt="imagen" src="https://github.com/user-attachments/assets/333f3d8e-e12a-4bd3-b6f2-6890954cc61a" />
-
