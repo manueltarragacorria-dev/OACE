@@ -133,6 +133,7 @@ cd C:\iso\p1\in\e1\e2 -> md ..\..\..\out\s1\s2\s31 .\..\..\out\s1\s2\s32
 ```
 md ..\..\..\..\p3\d\d1
 ```
-g<width="343" height="59" alt="imagen" src="https://github.com/user-attachments/assets/4f4c2529-d35d-4638-8019-8603f7dc140f" />
+<img width="343" height="59" alt="imagen" src="https://github.com/user-attachments/assets/38bcc90d-32a9-4067-bf79-2228bf8947c2" />
+
 
 
