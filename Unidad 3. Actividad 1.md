@@ -128,6 +128,11 @@ cd C:\iso\p1\in\e1\e2 -> md ..\..\..\out\s1\s2\s31 .\..\..\out\s1\s2\s32
 ```
 <img width="547" height="93" alt="imagen" src="https://github.com/user-attachments/assets/4aeb0bc2-c7a2-48d6-adcf-200cec8caeac" />
 
+### 3.- Desde el directorio e2 crea los directorios (p3, d y d1) con una única sentencia y trayectorias relativas.
 
+```
+md ..\..\..\..\p3\d\d1
+```
+g<width="343" height="59" alt="imagen" src="https://github.com/user-attachments/assets/4f4c2529-d35d-4638-8019-8603f7dc140f" />
 
 
