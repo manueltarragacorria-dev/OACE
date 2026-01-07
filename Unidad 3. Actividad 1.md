@@ -115,10 +115,11 @@ cd /
 ### 1.- Sitúate en el directorio iso de la unidad C:. Crea con una única sentencia (p1, in, e1, e2).
 
 ```
-cd iso -> md p1 -> cd p1 -> md in e1 e2
+cd iso -> md p1\in\e1\e2
 ```
 
-<img width="357" height="329" alt="imagen" src="https://github.com/user-attachments/assets/687a3a46-643e-4082-8180-c3a77b72c6ae" />
+<img width="185" height="98" alt="imagen" src="https://github.com/user-attachments/assets/1d48cfe8-2a60-480f-a0df-a4baf1e323a5" />
+
 
 ### 2.- Accede al directorio e2 utilizando trayectoria absoluta. Desde aquí crea los directorios (out, s1, s2, s31, s32)
 
