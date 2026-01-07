@@ -112,7 +112,7 @@ cd /
 
 ## Actividad 2. - Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada paso deberás transcribir todas las sentencias utilizadas.
 
-## 1.- Sitúate en el directorio iso de la unidad C:. Crea con una única sentencia (p1, in, e1, e2).
+### 1.- Sitúate en el directorio iso de la unidad C:. Crea con una única sentencia (p1, in, e1, e2).
 
 ```
 cd iso -> md p1 -> cd p1 -> md in e1 e2
@@ -120,7 +120,9 @@ cd iso -> md p1 -> cd p1 -> md in e1 e2
 
 <img width="357" height="329" alt="imagen" src="https://github.com/user-attachments/assets/687a3a46-643e-4082-8180-c3a77b72c6ae" />
 
-## 2.- Accede al directorio e2 utilizando trayectoria absoluta. Desde aquí crea los directorios (out, s1, s2, s31, s32)
+### 2.- Accede al directorio e2 utilizando trayectoria absoluta. Desde aquí crea los directorios (out, s1, s2, s31, s32)
+
+
 
 
 
