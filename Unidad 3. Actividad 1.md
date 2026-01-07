@@ -123,11 +123,13 @@ cd iso -> md p1\in\e1\e2
 
 ### 2.- Accede al directorio e2 utilizando trayectoria absoluta. Desde aquí crea los directorios (out, s1, s2, s31, s32)
 
+```
 
 
 
 
 
+<img width="547" height="93" alt="imagen" src="https://github.com/user-attachments/assets/4aeb0bc2-c7a2-48d6-adcf-200cec8caeac" />
 
 
 
