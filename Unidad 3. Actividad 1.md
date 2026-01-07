@@ -135,5 +135,9 @@ md ..\..\..\..\p3\d\d1
 ```
 <img width="343" height="59" alt="imagen" src="https://github.com/user-attachments/assets/38bcc90d-32a9-4067-bf79-2228bf8947c2" />
 
+### 4.- Accede al directorio s32 utilizando trayectorias relativas. Desde aquí crea los directorios (p2, a, b, c, a1,c11 y c12) con una única sentencia.
+
+
+
 
 
