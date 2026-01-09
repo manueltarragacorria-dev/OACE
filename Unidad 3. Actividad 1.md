@@ -167,5 +167,38 @@ ren C:\iso\p3\e1\e2 nuevoe2
 
 <img width="426" height="78" alt="imagen" src="https://github.com/user-attachments/assets/a515702c-dd0a-4078-9425-c31f8af18139" />
 
+### 8.- Situado en s32 elimina los directorios c11 y c12 con una única sentencia.
+
+```
+rd C:\iso\p2\c\c11 C:\iso\p2\c\c12
+```
+
+<img width="471" height="78" alt="imagen" src="https://github.com/user-attachments/assets/52bec4e2-ec43-4c1b-ab29-d8400c4771e4" />
+
+### 9.- Utiliza la sentencia para acceder a la raíz de tu unidad. Una vez allí elimina p1.
+
+```
+cd / -> rd C:\iso\p1 /s
+```
+
+<img width="282" height="127" alt="imagen" src="https://github.com/user-attachments/assets/9cf001ac-dc37-42cc-a57e-c97da3bb46bc" />
+
+### 10.- Sitúate en a1. Elimina e1 con una única sentencia.
+
+```
+cd C:\iso\p2\a\a1 -> rd C:\iso\p3\e1 /s
+```
+
+<img width="296" height="123" alt="imagen" src="https://github.com/user-attachments/assets/af0651f9-ed2f-4b81-80a6-448661050808" />
+
+### 11.- Ejecuta la orden para visualizar el árbol de directorios dependientes del directorio iso
+
+```
+treee C:\iso
+```
+
+<img width="357" height="247" alt="imagen" src="https://github.com/user-attachments/assets/9d3ada5e-7ac6-49cb-b3db-051711d49d64" />
+
+
 
 
