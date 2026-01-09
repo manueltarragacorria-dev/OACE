@@ -137,7 +137,35 @@ md ..\..\..\..\p3\d\d1
 
 ### 4.- Accede al directorio s32 utilizando trayectorias relativas. Desde aquí crea los directorios (p2, a, b, c, a1,c11 y c12) con una única sentencia.
 
+```
+cd ..\..\..\out\s1\s2\s32 -> md ..\..\..\..\..\p2\a\a1 ..\..\..\..\..\p2\b ..\..\..\..\..\p2\c\c11\c12
+```
 
+<img width="946" height="104" alt="imagen" src="https://github.com/user-attachments/assets/ee7be9e7-3503-4a66-b193-1620f49ba693" />
+
+### 5.- Situado en s32 visualiza el árbol de directorios dependiente de iso y comprueba que es exactamente igual que el árbol que se muestra al comienzo del ejercicio.
+
+```
+tree C:\iso
+```
+
+<img width="357" height="434" alt="imagen" src="https://github.com/user-attachments/assets/d0781c16-abc4-4d1d-af5e-27eaec855b40" />
+
+### 6.- Situado en s32 mueve el directorio e1 a p3 utilizando trayectoria relativa.
+
+```
+move ..\..\..\..\in\e1 ..\..\..\..\..\p3
+```
+
+<img width="526" height="95" alt="imagen" src="https://github.com/user-attachments/assets/f07ddef4-44a0-483e-8df5-046f1c8d5338" />
+
+### 7.- Situado en s32 cambia el nombre del directorio e2 por nuevoe2 utilizando trayectoria absoluta.
+
+```
+ren C:\iso\p3\e1\e2 nuevoe2
+```
+
+<img width="426" height="78" alt="imagen" src="https://github.com/user-attachments/assets/a515702c-dd0a-4078-9425-c31f8af18139" />
 
 
 
