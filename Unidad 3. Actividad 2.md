@@ -46,6 +46,10 @@ type Nombre.txt > union.txt -> type Apellido.txt >> union.txt
 ## 7.- Mueve el fichero union.txt a A21.
 
 
+<img width="372" height="70" alt="imagen" src="https://github.com/user-attachments/assets/11fd51e0-6275-4396-8e10-c688e2d9f364" />
+
+
+
 
 
 
