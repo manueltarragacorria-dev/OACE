@@ -74,6 +74,11 @@ copy C:\SMM\D\Nombre.txt C:\SMM\A
 
 <img width="385" height="74" alt="imagen" src="https://github.com/user-attachments/assets/b1440041-b4f9-41ab-87a6-8283b728f59d" />
 
+### 11.- Elimina el directorio A (sin usar el parámetro /s).
+
+
+
+
 
 
 
