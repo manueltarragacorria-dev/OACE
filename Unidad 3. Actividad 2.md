@@ -45,9 +45,34 @@ type Nombre.txt > union.txt -> type Apellido.txt >> union.txt
 
 ## 7.- Mueve el fichero union.txt a A21.
 
-
+```
+move C:\SMM\D\union.txt C:\SMM\D\A21
+```
 <img width="372" height="70" alt="imagen" src="https://github.com/user-attachments/assets/11fd51e0-6275-4396-8e10-c688e2d9f364" />
 
+### 8.- Mueve el directorio A2 dentro de C.
+
+```
+move C:\SMM\D\A2 C:\SMM\C
+```
+
+<img width="322" height="53" alt="imagen" src="https://github.com/user-attachments/assets/18eeea3c-6c2f-4e72-a4bf-957ed99acb74" />
+
+### 9.- Cambia el nombre del fichero union.txt por el de nuevaunion.txt
+
+```
+ren union.txt nuevaunion.txt
+```
+
+<img width="336" height="23" alt="imagen" src="https://github.com/user-attachments/assets/6d64bbaf-4d55-46d3-9819-aa359c11be8a" />
+
+### 10.- Copia el fichero Nombre.txt al directorio A
+
+```
+copy C:\SMM\D\Nombre.txt C:\SMM\A
+```
+
+<img width="385" height="74" alt="imagen" src="https://github.com/user-attachments/assets/b1440041-b4f9-41ab-87a6-8283b728f59d" />
 
 
 
