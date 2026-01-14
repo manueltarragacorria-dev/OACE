@@ -8,6 +8,6 @@ help cmd
 
 ## 2. Muestra la ayuda para el comando DIR
 ```
-dir
+help dir
 ```
 <img width="605" height="320" alt="imagen" src="https://github.com/user-attachments/assets/333f3d8e-e12a-4bd3-b6f2-6890954cc61a" />
