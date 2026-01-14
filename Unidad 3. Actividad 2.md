@@ -82,6 +82,14 @@ del Nombre.txt -> cd .. ->   rd A
 
 <img width="198" height="86" alt="imagen" src="https://github.com/user-attachments/assets/c635b3b7-022d-40c4-9181-b209de11fa2b" />
 
+### 12.- Cambia el nombre del fichero Apellido.txt por el de miApellido.doc
+
+```
+ren C:\SMM\D\Apellido.txt miApellido.doc
+```
+<img width="386" height="34" alt="imagen" src="https://github.com/user-attachments/assets/cb4f9e0b-7c1b-4b3e-811b-156cd3039810" />
+
+
 
 
 
