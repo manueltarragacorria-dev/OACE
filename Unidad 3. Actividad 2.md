@@ -29,6 +29,11 @@ cd A221 mkdir B1 B11 B111 B112
 <img width="742" height="119" alt="imagen" srcc="https://github.com/user-attachments/assets/f43ee3fd-e4e6-4f0a-ab1a-fbe<98f521064"/>
 
 ## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
+
+```
+tree C:\SMM\A /A > C:\SMM\C\lienas.txt
+```
+
 <img width="770" height="106" alt="imagen" src="https://github.com/user-attachments/assets/c3187337-cd46-4a70-9214-95296eac6894" />
 
 ## 5.- Crea en D un fichero llamado Nombre.txt que contenga tu nombre y otro fichero llamado Apellido.txt que contenga tu primer apellido.
