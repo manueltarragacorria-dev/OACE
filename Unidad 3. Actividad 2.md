@@ -100,7 +100,10 @@ ren C:\SMM\C nuevoC
 ### 14.- Copia el fichero lineas.txt a D con el nombre nlineasend.txt
 
 ```
-copy
+copy C:\SMM\nuevoC\lineas.txt C:\SMM\D
+```
+
+<img width="368" height="48" alt="imagen" src="https://github.com/user-attachments/assets/dc6639ee-acd0-4f7d-aaf4-042d0307ce49" />
 
 
 
