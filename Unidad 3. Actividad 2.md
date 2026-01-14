@@ -76,6 +76,11 @@ copy C:\SMM\D\Nombre.txt C:\SMM\A
 
 ### 11.- Elimina el directorio A (sin usar el parámetro /s).
 
+```
+del Nombre.txt -> cd .. ->   rd A
+```
+
+<img width="198" height="86" alt="imagen" src="https://github.com/user-attachments/assets/c635b3b7-022d-40c4-9181-b209de11fa2b" />
 
 
 
