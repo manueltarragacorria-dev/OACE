@@ -33,6 +33,7 @@ cd A221 mkdir B1 B11 B111 B112
 <img width="770" height="106" alt="imagen" src="https://github.com/user-attachments/assets/c3187337-cd46-4a70-9214-95296eac6894" />
 
 ## 5.- Crea en D un fichero llamado Nombre.txt que contenga tu nombre y otro fichero llamado Apellido.txt que contenga tu primer apellido.
+
 <img width="766" height="203" alt="imagen" src="https://github.com/user-attachments/assets/a7f6305a-093b-4b46-a69e-fd9dd2037f89" />
 
 ## 6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
@@ -105,6 +106,13 @@ copy C:\SMM\nuevoC\lineas.txt C:\SMM\D
 
 <img width="368" height="48" alt="imagen" src="https://github.com/user-attachments/assets/dc6639ee-acd0-4f7d-aaf4-042d0307ce49" />
 
+### 15.- Muestra el árbol de directorios (incluyendo ficheros) que depende del directorio smm.
+
+```
+tree /f
+```
+
+<img width="424" height="333" alt="imagen" src="https://github.com/user-attachments/assets/314d52ee-84e9-4351-9898-b9da3e26c638" />
 
 
 
