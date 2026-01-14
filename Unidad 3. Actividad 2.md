@@ -89,10 +89,18 @@ ren C:\SMM\D\Apellido.txt miApellido.doc
 ```
 <img width="386" height="34" alt="imagen" src="https://github.com/user-attachments/assets/cb4f9e0b-7c1b-4b3e-811b-156cd3039810" />
 
+### 13.- Cambia el nombre del directorio C por el de nuevoC
 
+```
+ren C:\SMM\C nuevoC
+```
 
+<img width="220" height="34" alt="imagen" src="https://github.com/user-attachments/assets/04bdef6f-1137-4f5f-8c90-05eb3715eab0" />
 
+### 14.- Copia el fichero lineas.txt a D con el nombre nlineasend.txt
 
+```
+copy
 
 
 
