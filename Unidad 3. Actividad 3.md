@@ -28,4 +28,11 @@ date
 
 <img width="251" height="60" alt="imagen" src="https://github.com/user-attachments/assets/f95c7563-0274-41da-80b7-e87c99a749d7" />
 
-#
+## 5. Cambia el prompt por la fecha actual.
+
+```
+prompt $T
+```
+
+<img width="121" height="60" alt="imagen" src="https://github.com/user-attachments/assets/645154bc-03e0-45e8-8496-da2e4acc2664" />
+
