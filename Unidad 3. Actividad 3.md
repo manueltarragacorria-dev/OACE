@@ -10,4 +10,22 @@ help cmd
 ```
 help dir
 ```
-<img width="605" height="320" alt="imagen" src="https://github.com/user-attachments/assets/333f3d8e-e12a-4bd3-b6f2-6890954cc61a" />
+<img width="717" height="644" alt="imagen" src="https://github.com/user-attachments/assets/89fdfb65-3ccd-480c-967e-abece32c6181" />
+
+## 3. Muestra la hora del sistema
+
+```
+time
+```
+
+<img width="251" height="60" alt="imagen" src="https://github.com/user-attachments/assets/e4e7c5e1-9c32-4732-8f8c-567537411781" />
+
+## 4. Muestra la fecha del sistema
+
+```
+date
+```
+
+<img width="251" height="60" alt="imagen" src="https://github.com/user-attachments/assets/f95c7563-0274-41da-80b7-e87c99a749d7" />
+
+#
