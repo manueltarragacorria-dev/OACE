@@ -38,6 +38,10 @@ tree C:\SMM\A /A > C:\SMM\C\lienas.txt
 
 ## 5.- Crea en D un fichero llamado Nombre.txt que contenga tu nombre y otro fichero llamado Apellido.txt que contenga tu primer apellido.
 
+```
+echo Manuel > C:\SMM\D\Nombre.txt -> echo Tarraga > C:\SMM\D\Apellido.txt
+```
+
 <img width="766" height="203" alt="imagen" src="https://github.com/user-attachments/assets/a7f6305a-093b-4b46-a69e-fd9dd2037f89" />
 
 ## 6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt
