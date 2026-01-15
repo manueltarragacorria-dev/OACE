@@ -36,3 +36,12 @@ prompt $T
 
 <img width="121" height="60" alt="imagen" src="https://github.com/user-attachments/assets/645154bc-03e0-45e8-8496-da2e4acc2664" />
 
+### 6. Vuelve a poner el prompt a la configuración predeterminada con tu nombre al inicio.
+
+
+
+
+
+
+
+
