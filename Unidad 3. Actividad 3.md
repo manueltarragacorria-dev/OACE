@@ -63,6 +63,70 @@ dir sys*
 <img width="412" height="365" alt="imagen" src="https://github.com/user-attachments/assets/d62101f1-f072-4a2e-b22d-12db7eb9fcbf" />
 <img width="412" height="273" alt="imagen" src="https://github.com/user-attachments/assets/079e193f-9875-4c27-8ed2-74404ccda199" />
 
+### 9. Accede al Panel de Control desde cmd
+
+```
+control
+```
+
+<img width="207" height="64" alt="imagen" src="https://github.com/user-attachments/assets/25e9b987-b607-428f-b52b-1c763cbf83a8" />
+
+### 10. Ejecuta SYSTEMINFO
+
+```
+systeminfo
+```
+
+<img width="851" height="585" alt="imagen" src="https://github.com/user-attachments/assets/2d065334-90b6-4464-adbc-bf1ff72820b9" />
+
+### 11. Ejecuta VER
+
+```
+ver
+```
+
+<img width="354" height="99" alt="imagen" src="https://github.com/user-attachments/assets/aaf89ce5-678e-46ca-8c4b-53038cb07ddc" />
+
+### 12. Ejecuta TASKLIST
+
+```
+tasklist
+```
+
+<img width="628" height="727" alt="imagen" src="https://github.com/user-attachments/assets/22415a89-20cb-470f-9bb5-75f316727abf" />
+
+### 13. Ejecuta WHOAMI
+
+```
+whoami
+```
+
+<img width="198" height="80" alt="imagen" src="https://github.com/user-attachments/assets/05827d20-c9c1-4b4d-9b40-541ad51092fb" />
+
+### 14. Ejecuta START
+
+```
+start
+```
+
+<img width="199" height="70" alt="imagen" src="https://github.com/user-attachments/assets/027bd2aa-3138-479e-a98f-ddc9c8df8e66" />
+
+### 15. Escribe TITLE TuNombre
+
+```
+title Manuel
+```
+
+<img width="243" height="70" alt="imagen" src="https://github.com/user-attachments/assets/3940f990-554f-4760-8124-cd5145a62d0f" />
+
+### 16. Escribe el comando para reiniciar la máquina virtual en 20 segundos
+
+```
+shutdown -s -t 20
+```
+
+<img width="279" height="70" alt="imagen" src="https://github.com/user-attachments/assets/42554f20-6620-436c-b80e-64ad6a0db69d" />
+
 
 
 
