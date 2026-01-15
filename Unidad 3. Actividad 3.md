@@ -38,7 +38,30 @@ prompt $T
 
 ### 6. Vuelve a poner el prompt a la configuración predeterminada con tu nombre al inicio.
 
+```
+prompt manuel $P^>
+```
 
+<img width="197" height="72" alt="imagen" src="https://github.com/user-attachments/assets/545fb64a-2e69-4273-bc9c-560979159286" />
+
+### 7. Limpia la pantalla
+
+```
+cls
+```
+
+### 8. Lista todos los archivos de la carpeta C:\Windows que tengan extensión .exe y Lista todos los archivos y carpetas de la carpeta C:\Windows que comiencen por sys
+
+```
+dir *.exe
+```
+
+```
+dir sys*
+```
+
+<img width="412" height="365" alt="imagen" src="https://github.com/user-attachments/assets/d62101f1-f072-4a2e-b22d-12db7eb9fcbf" />
+<img width="412" height="273" alt="imagen" src="https://github.com/user-attachments/assets/079e193f-9875-4c27-8ed2-74404ccda199" />
 
 
 
