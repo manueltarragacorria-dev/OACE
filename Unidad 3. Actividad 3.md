@@ -127,6 +127,12 @@ shutdown -s -t 20
 
 <img width="279" height="70" alt="imagen" src="https://github.com/user-attachments/assets/42554f20-6620-436c-b80e-64ad6a0db69d" />
 
+### 17. Cierra con un comando el CMD
+
+```
+exit
+```
+
 
 
 
