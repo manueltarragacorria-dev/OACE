@@ -133,6 +133,12 @@ shutdown -s -t 20
 exit
 ```
 
+<img width="148" height="70" alt="imagen" src="https://github.com/user-attachments/assets/9b3ee4c7-966a-48cc-8276-82bbfefb3d1f" />
+
+### 18. Comprueba para que sirven las teclas desde F1 hasta F7
+
+#### F1 sirve para escribir letra por letra el último comando que se ha ejecutado
+#### F7 sirve ver los últimos comandos ejecutados desde un panel gráfico
 
 
 
