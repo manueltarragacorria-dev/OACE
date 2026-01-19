@@ -140,6 +140,13 @@ exit
 #### F1 sirve para escribir letra por letra el último comando que se ha ejecutado
 #### F7 sirve ver los últimos comandos ejecutados desde un panel gráfico
 
+### 19. Ejecuta DOSKEY /HISTORY. ¿Para qué sirve?
+
+```
+doskey /history
+```
+
+<img width="180" height="117" alt="imagen" src="https://github.com/user-attachments/assets/9e7590cc-41bf-475a-9609-58c60b1f43b1" />
 
 
 
