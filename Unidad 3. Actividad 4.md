@@ -94,7 +94,7 @@ md C:\iso\compartidaManuel
 
 <img width="263" height="65" alt="imagen" src="https://github.com/user-attachments/assets/6305e969-4623-404d-ac1f-e4a1b04972d7" />
 
-## 13. Compártela dándole permisos de lectura y escritura al usuario administrador de tu equipo.
+
 
 
 
