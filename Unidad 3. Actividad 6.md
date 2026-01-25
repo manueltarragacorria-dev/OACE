@@ -35,4 +35,15 @@ Tree C:\SMM\A | Out-File C:\SMM\C\lineas.txt
 
 <img width="603" height="51" alt="image" src="https://github.com/user-attachments/assets/46a3ed26-3a5f-42f3-87c7-b64bd2dab229" />
 
+## 5.- Crea en D un fichero llamado Nombre.txt que contenga tu nombre y otro fichero llamado Apellido.txt que contenga tu primer apellido.
+
+```
+"Manuel" | Out-File C:\SMM\D\Nombre.txt -> "Tarraga" | Out-File C:\SMM\D\Apellido.txt
+```
+
+<img width="533" height="70" alt="image" src="https://github.com/user-attachments/assets/2b4ef88e-4906-4242-a841-24379b302337" />
+
+
+
+
 
