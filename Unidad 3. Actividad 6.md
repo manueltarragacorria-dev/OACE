@@ -41,7 +41,8 @@ Tree C:\SMM\A | Out-File C:\SMM\C\lineas.txt
 "Manuel" | Out-File C:\SMM\D\Nombre.txt -> "Tarraga" | Out-File C:\SMM\D\Apellido.txt
 ```
 
-<img width="533" height="70" alt="image" src="https://github.com/user-attachments/assets/2b4ef88e-4906-4242-a841-24379b302337" />
+<img width="547" height="70" alt="image" src="https://github.com/user-attachments/assets/c0b8e9ff-4681-4fee-b509-429c735b2c00" />
+
 
 # 6.- Genera un fichero llamado union.txt en D que contenga nombre y tu primer apellido. 7.- Mueve el fichero union.txt a A21.
 
