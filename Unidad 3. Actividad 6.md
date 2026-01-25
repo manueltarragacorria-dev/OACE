@@ -60,7 +60,12 @@ Move-Item C:\SMM\D\union.txt C:\SMM\A\A21
 
 <img width="538" height="48" alt="image" src="https://github.com/user-attachments/assets/fa58dbcd-b8a9-4e8c-b0d8-30637f4cbaba" />
 
+## 8.- Mueve el directorio A2 dentro de C.
 
+```
+Move-Item C:\SMM\A\A2 C:\SMM\C
+```
 
+<img width="437" height="48" alt="image" src="https://github.com/user-attachments/assets/06c67e5b-56b1-48de-bbbc-02642c76a3f5" />
 
 
