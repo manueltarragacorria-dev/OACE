@@ -24,4 +24,6 @@ Set-Location A221 -> New-Item -ItemType Directory B1, B11, B111, B112
 
 <img width="620" height="310" alt="image" src="https://github.com/user-attachments/assets/24c07793-d4f1-4805-a16a-bcc5aa29e82c" />
 
+## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
+
 
