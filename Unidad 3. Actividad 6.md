@@ -52,6 +52,13 @@ Get-Content C:\SMM\D\Nombre.txt, C:\SMM\D\Apellido.txt | Out-File C:\SMM\D\union
 
 <img width="927" height="53" alt="image" src="https://github.com/user-attachments/assets/1c008f2f-1658-4ed8-98e4-331d395152e6" />
 
+## 7.- Mueve el fichero union.txt a A21.
+
+```
+Move-Item C:\SMM\D\union.txt C:\SMM\A\A21
+```
+
+<img width="538" height="48" alt="image" src="https://github.com/user-attachments/assets/fa58dbcd-b8a9-4e8c-b0d8-30637f4cbaba" />
 
 
 
