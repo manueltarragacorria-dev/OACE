@@ -18,3 +18,10 @@ Set-Location D -> New-Item -ItemType Directory A1, A2, A21, A22, A221
 
 ## 3.- Sitúate en A221 y desde allí crea B1, B11, B111, B112 con una única sentencia y utilizando trayectoria relativa.
 
+```
+Set-Location A221 -> New-Item -ItemType Directory B1, B11, B111, B112
+````
+
+<img width="620" height="310" alt="image" src="https://github.com/user-attachments/assets/24c07793-d4f1-4805-a16a-bcc5aa29e82c" />
+
+
