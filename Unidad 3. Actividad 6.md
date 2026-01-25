@@ -46,6 +46,11 @@ Tree C:\SMM\A | Out-File C:\SMM\C\lineas.txt
 
 # 6.- Genera un fichero llamado union.txt en D que contenga nombre y tu primer apellido. 7.- Mueve el fichero union.txt a A21.
 
+```
+Get-Content C:\SMM\D\Nombre.txt, C:\SMM\D\Apellido.txt | Out-File C:\SMM\D\union.txt
+```
+
+<img width="927" height="53" alt="image" src="https://github.com/user-attachments/assets/1c008f2f-1658-4ed8-98e4-331d395152e6" />
 
 
 
