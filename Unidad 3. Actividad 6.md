@@ -68,4 +68,33 @@ Move-Item C:\SMM\A\A2 C:\SMM\C
 
 <img width="437" height="48" alt="image" src="https://github.com/user-attachments/assets/06c67e5b-56b1-48de-bbbc-02642c76a3f5" />
 
+## 9.- Cambia el nombre del fichero union.txt por el de nuevaunion.txt
+
+```
+Rename-Item C:\SMM\A\A21\union.txt C:\SMM\A\A21\nuevaunion.txt
+```
+
+<img width="725" height="49" alt="image" src="https://github.com/user-attachments/assets/46e6aee9-32d5-44f1-b222-db7943e4fae9" />
+
+## 10.- Copia el fichero Nombre.txt al directorio A
+
+```
+Copy-Item C:\SMM\D\Nombre.txt C:\SMM\A
+```
+
+<img width="511" height="48" alt="image" src="https://github.com/user-attachments/assets/8801af88-0ef6-4234-bb89-c46e6f25f13c" />
+
+## 11.- Elimina el directorio A (sin usar el parámetro /s).
+
+```
+Set-Location C:\SMM -> Remove-Item A\A1 -> Remove-Item A\A21\nuevaunion.txt -> Remove-Item A\A21 -> Remove-Item A\A22 -> Remove-Item A\A221 -> Remove-Item A
+
+
+<img width="1873" height="603" alt="image" src="https://github.com/user-attachments/assets/f5c0eeb7-4541-48d7-92e0-0f87d0ddefd9" />
+
+
+
+
+
+
 
