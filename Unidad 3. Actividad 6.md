@@ -20,10 +20,11 @@ Set-Location D -> New-Item -ItemType Directory ..\A\A1, ..\A\A2, ..\A\A21, ..\A\
 ## 3.- Sitúate en A221 y desde allí crea B1, B11, B111, B112 con una única sentencia y utilizando trayectoria relativa.
 
 ```
-Set-Location A221 -> New-Item -ItemType Directory ..\B\B1, ..\A\A2, ..\B\B1\B11, ..\B\B1\B11\B111, ..\B\B1\B11\B112
-````
+Set-Location A221 -> New-Item -ItemType Directory ..\..\B\B1, ..\..\B\B1\B11, ..\..\B\B1\B11\B111, ..\..\B\B1\B11\B112
+```
 
-<img width="1027" height="743" alt="image" src="https://github.com/user-attachments/assets/098e0e1e-6bc6-4ae0-975f-03e9fbcc0b01" />
+<img width="1049" height="586" alt="image" src="https://github.com/user-attachments/assets/25d7fef1-84b2-4cd1-aeae-502664d5d075" />
+
 
 
 ## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
