@@ -29,5 +29,10 @@ Set-Location A221 -> New-Item -ItemType Directory ..\..\B\B1, ..\..\B\B1\B11, ..
 
 ## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
 
+```
+Tree C:\SMM\A | Out-File C:\SMM\C\lineas.txt
+```
+
+<img width="603" height="51" alt="image" src="https://github.com/user-attachments/assets/46a3ed26-3a5f-42f3-87c7-b64bd2dab229" />
 
 
