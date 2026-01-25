@@ -11,19 +11,22 @@ New-Item -ItemType Directory SMM -> Set-Location SMM -> New-Item -ItemType Direc
 ## 2.- Sitúate en D y desde allí crea A1, A2, A21, A22, A221 con una única sentencia utilizando trayectoria relativa
 
 ```
-Set-Location D -> New-Item -ItemType Directory A1, A2, A21, A22, A221
+Set-Location D -> New-Item -ItemType Directory ..\A\A1, ..\A\A2, ..\A\A21, ..\A\A22, ..\A\A221
 ```
 
-<img width="600" height="311" alt="image" src="https://github.com/user-attachments/assets/1a9b73d9-b03c-4784-b0b3-6d3c14b3bcc3" />
+<img width="809" height="315" alt="image" src="https://github.com/user-attachments/assets/9236b7c9-6347-453a-bb4e-c733c04d2148" />
+
 
 ## 3.- Sitúate en A221 y desde allí crea B1, B11, B111, B112 con una única sentencia y utilizando trayectoria relativa.
 
 ```
-Set-Location A221 -> New-Item -ItemType Directory B1, B11, B111, B112
+Set-Location A221 -> New-Item -ItemType Directory ..\B\B1, ..\A\A2, ..\B\B1\B11, ..\B\B1\B11\B111, ..\B\B1\B11\B112
 ````
 
-<img width="620" height="310" alt="image" src="https://github.com/user-attachments/assets/24c07793-d4f1-4805-a16a-bcc5aa29e82c" />
+<img width="1027" height="743" alt="image" src="https://github.com/user-attachments/assets/098e0e1e-6bc6-4ae0-975f-03e9fbcc0b01" />
+
 
 ## 4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga el árbol de directorios dependiente del directorio A (incluyendo los subdirectorios).
+
 
 
