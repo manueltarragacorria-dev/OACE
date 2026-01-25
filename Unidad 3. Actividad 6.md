@@ -88,6 +88,7 @@ Copy-Item C:\SMM\D\Nombre.txt C:\SMM\A
 
 ```
 Set-Location C:\SMM -> Remove-Item A\A1 -> Remove-Item A\A21\nuevaunion.txt -> Remove-Item A\A21 -> Remove-Item A\A22 -> Remove-Item A\A221 -> Remove-Item A
+```
 
 
 <img width="1873" height="603" alt="image" src="https://github.com/user-attachments/assets/f5c0eeb7-4541-48d7-92e0-0f87d0ddefd9" />
