@@ -90,9 +90,39 @@ Copy-Item C:\SMM\D\Nombre.txt C:\SMM\A
 Set-Location C:\SMM -> Remove-Item A\A1 -> Remove-Item A\A21\nuevaunion.txt -> Remove-Item A\A21 -> Remove-Item A\A22 -> Remove-Item A\A221 -> Remove-Item A
 ```
 
-
 <img width="1873" height="603" alt="image" src="https://github.com/user-attachments/assets/f5c0eeb7-4541-48d7-92e0-0f87d0ddefd9" />
 
+## 12.- Cambia el nombre del fichero Apellido.txt por el de miApellido.doc
+
+```
+Rename-Item C:\SMM\D\Apellido.txt C:\SMM\D\miApellido.doc
+```
+
+<img width="616" height="48" alt="image" src="https://github.com/user-attachments/assets/fe0fb394-c684-4a97-a53d-0556cb3452c1" />
+
+## 13.- Cambia el nombre del directorio C por el de nuevoC
+
+```
+Rename-Item C:\SMM\C C:\SMM\nuevoC
+```
+
+<img width="419" height="51" alt="image" src="https://github.com/user-attachments/assets/f71ac139-4c58-44aa-b663-b9c1ef58728d" />
+
+## 14.- Copia el fichero lineas.txt a D con el nombre nlineasend.txt
+
+```
+Copy-Item C:\SMM\nuevoC\lineas.txt C:\SMM\D\nlineasend.txt
+```
+
+<img width="629" height="51" alt="image" src="https://github.com/user-attachments/assets/f0249c07-b93d-4aaa-9841-658c2bd9d0b5" />
+
+## 15.- Muestra el árbol de directorios (incluyendo ficheros) que depende del directorio smm.
+
+```
+Tree /F
+```
+
+<img width="454" height="389" alt="image" src="https://github.com/user-attachments/assets/d6933d78-567c-4525-aef6-95f077bc4a0d" />
 
 
 
