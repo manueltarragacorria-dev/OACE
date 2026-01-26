@@ -24,6 +24,22 @@ Set-Location ..\..\..\..\ -> New-Item -ItemType Directory C:\iso\2_eval
 
 <img width="437" height="175" alt="imagen" src="https://github.com/user-attachments/assets/c2f452cf-449b-48e1-8f49-34916934c6a9" />
 
+## 4.- Sitúate en el directorio 2_eval. Crea los directorios (prac1, prac2, prac3) con una única sentencia.
+
+```
+Set-Location 2_eval -> New-Item -ItemType Directory prac1, prac2, prac3
+```
+
+<img width="470" height="204" alt="imagen" src="https://github.com/user-attachments/assets/92df5a32-2ed3-4307-bf27-289c25c0c698" />
+
+## 5.- Sitúate en el directorio prac3. Crea los directorios (prac31, prac311) usando trayectorias relativas.
+
+```
+Set-Location prac3 -> New-Item -ItemType Directory prac31\prac311
+```
+
+<img width="476" height="179" alt="imagen" src="https://github.com/user-attachments/assets/ec45dba6-8c95-418d-9524-b7e0add8a95b" />
+
 
 
 
