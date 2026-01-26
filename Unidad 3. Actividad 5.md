@@ -48,6 +48,13 @@ Set-Location ..\..\
 
 <img width="319" height="58" alt="imagen" src="https://github.com/user-attachments/assets/26b5acfb-db79-4ecc-a05e-be87f964ce63" />
 
+## 7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
+
+
+
+
+
+<img width="1005" height="53" alt="imagen" src="https://github.com/user-attachments/assets/40ee17a6-a05a-42b6-acc2-923409f61d8a" />
 
 
 
