@@ -50,8 +50,9 @@ Set-Location ..\..\
 
 ## 7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
 
-
-
+```
+Remove-Item C:\iso\2_eval\prac3\prac31\prac311, C:\iso\2_eval\prac3\prac31, C:\iso\3_eval\teoriab, C:\iso\3_eval\teoriaa, C:\iso\1_eval\teoria\t1, C:\iso\1_eval\practica\p1a\p1b, C:\iso\1_eval\practica\p1a
+```
 
 
 <img width="1005" height="53" alt="imagen" src="https://github.com/user-attachments/assets/40ee17a6-a05a-42b6-acc2-923409f61d8a" />
