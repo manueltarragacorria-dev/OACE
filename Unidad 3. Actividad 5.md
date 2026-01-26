@@ -89,7 +89,21 @@ Remove-Item ..\1_eval, ..\3_eval -Recurse
 
 <img width="419" height="36" alt="imagen" src="https://github.com/user-attachments/assets/65be7edb-ff15-4886-aae7-4f2020c3499d" />
 
+## 12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
 
+```
+Tree
+```
+
+<img width="378" height="153" alt="imagen" src="https://github.com/user-attachments/assets/1ef894a6-4373-42c0-976d-999f6df7878a" />
+
+## 13.- Accede directamente a la raíz (a la unidad en la que te encuentras)
+
+```
+Set-Location /
+```
+
+<img width="232" height="60" alt="imagen" src="https://github.com/user-attachments/assets/9cdd1a62-624d-4cdb-837e-4c776368b020" />
 
 
 
