@@ -81,6 +81,13 @@ Move-Item prac4 prac3
 
 <img width="380" height="136" alt="imagen" src="https://github.com/user-attachments/assets/1ee25ee5-97bc-4537-8a42-075dbc8e59c7" />
 
+## 11.- Desde aquí elimina los directorios (1_eval, 3_eval)
+
+```
+Remove-Item ..\1_eval, ..\3_eval -Recurse
+```
+
+<img width="419" height="36" alt="imagen" src="https://github.com/user-attachments/assets/65be7edb-ff15-4886-aae7-4f2020c3499d" />
 
 
 
