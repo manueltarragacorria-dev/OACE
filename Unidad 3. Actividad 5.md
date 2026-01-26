@@ -1,4 +1,4 @@
-<img width="675" height="284" alt="imagen" src="https://github.com/user-attachments/assets/da61c702-b642-45f1-92ab-a52246d6d892" /># UNIDAD 3. ACTIVIDAD 5. EJERCICIOS CON DIRECTORIOS. POWERSHEL
+# UNIDAD 3. ACTIVIDAD 5. EJERCICIOS CON DIRECTORIOS. POWERSHEL
 
 ## 1.- Crea un directorio llamado iso en tu unidad c:. Sitúate en el directorio iso de tu unidad (que será la unidad C). Desde el directorio iso crea los directorios (1_eval, teoria, t1, practica, p1a, p1b) utilizando trayectorias absolutas.
 
