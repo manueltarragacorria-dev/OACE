@@ -40,6 +40,13 @@ Set-Location prac3 -> New-Item -ItemType Directory prac31\prac311
 
 <img width="476" height="179" alt="imagen" src="https://github.com/user-attachments/assets/ec45dba6-8c95-418d-9524-b7e0add8a95b" />
 
+## 6.- Accede al directorio iso usando trayectoria absoluta con una única sentencia.
+
+```
+Set-Location ..\..\
+```
+
+<img width="319" height="58" alt="imagen" src="https://github.com/user-attachments/assets/26b5acfb-db79-4ecc-a05e-be87f964ce63" />
 
 
 
