@@ -57,9 +57,29 @@ Remove-Item C:\iso\2_eval\prac3\prac31\prac311, C:\iso\2_eval\prac3\prac31, C:\i
 
 <img width="1005" height="53" alt="imagen" src="https://github.com/user-attachments/assets/40ee17a6-a05a-42b6-acc2-923409f61d8a" />
 
+## 8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
 
+```
+Set-Location 2_eval
+```
 
+<img width="223" height="59" alt="imagen" src="https://github.com/user-attachments/assets/bc8bd487-a952-4553-9341-fef6dc9ff443" />
 
+## 9.- Desde aquí cambia el nombre del directorio prac1 por el de prac4.
+
+```
+rename-Item prac1 prac4
+```
+
+<img width="299" height="59" alt="imagen" src="https://github.com/user-attachments/assets/ce959a5f-cf80-479e-a875-b409421767f0" />
+
+## 10.- Desde aquí sitúa el directorio prac4 dentro del directorio prac3.
+
+```
+Move-Item prac4 prac3
+```
+
+<img width="380" height="136" alt="imagen" src="https://github.com/user-attachments/assets/1ee25ee5-97bc-4537-8a42-075dbc8e59c7" />
 
 
 
