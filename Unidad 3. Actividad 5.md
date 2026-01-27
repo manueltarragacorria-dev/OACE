@@ -107,6 +107,13 @@ Set-Location /
 
 ## Actividad 2. Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada uno de los pasos deberás transcribir todas y cada una de las sentencias utilizadas.
 
+### 1.- Sitúate en el directorio iso de la unidad C:. Crea con una única sentencia (p1, in, e1, e2)
+
+```
+New-Item -ItemType Directory iso -> Set-Location iso -> New-Item -ItemType Directory C:\iso\p1\in\e1\e2
+```
+
+<img width="417" height="329" alt="imagen" src="https://github.com/user-attachments/assets/7a7947e9-2dfe-4c02-9e39-3a21b4b65bd0" />
 
 
 
