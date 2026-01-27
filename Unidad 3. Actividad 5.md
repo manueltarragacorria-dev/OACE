@@ -115,6 +115,13 @@ New-Item -ItemType Directory iso -> Set-Location iso -> New-Item -ItemType Direc
 
 <img width="417" height="329" alt="imagen" src="https://github.com/user-attachments/assets/7a7947e9-2dfe-4c02-9e39-3a21b4b65bd0" />
 
+### 2.- Accede al directorio e2 utilizando trayectoria absoluta. Desde aquí crea los directorios (out, s1, s2, s31, s32) utilizando trayectorias relativas y en una única sentencia.
+
+```
+New-Item -ItemType Directory C:\iso\p1\out\s1\s2\s31, C:\iso\p1\out\s1\s2\s32
+```
+
+<img width="690" height="193" alt="imagen" src="https://github.com/user-attachments/assets/f4ede265-8f7a-4e9e-a4bf-491edb32ef5c" />
 
 
 
