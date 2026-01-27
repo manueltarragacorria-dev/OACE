@@ -131,6 +131,13 @@ New-Item -ItemType Directory ..\..\..\..\p3\d\d1
 
 <img width="508" height="162" alt="imagen" src="https://github.com/user-attachments/assets/58bbb634-4e94-4579-b03e-818ea4d58dd4" />
 
+### 4.- Accede al directorio s32 utilizando trayectorias relativas. Desde aquí crea los directorios (p2, a, b, c, a1, c11 y c12) con una única sentencia.
+
+```
+Set-Location ..\..\..\out\s1\s2\s32 -> New-Item -ItemType Directory C:\iso\p2\a\a1, C:\iso\p2\b, C:\iso\p2\c\c11, C:\iso\p2\c\c12
+```
+
+<img width="834" height="410" alt="imagen" src="https://github.com/user-attachments/assets/35f2c94f-7074-415f-ab89-79c6c3beceb7" />
 
 
 
