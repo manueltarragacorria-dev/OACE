@@ -123,6 +123,26 @@ New-Item -ItemType Directory C:\iso\p1\out\s1\s2\s31, C:\iso\p1\out\s1\s2\s32
 
 <img width="690" height="193" alt="imagen" src="https://github.com/user-attachments/assets/f4ede265-8f7a-4e9e-a4bf-491edb32ef5c" />
 
+### 3.- Desde el directorio e2 crea los directorios (p3, d y d1) con una única sentencia y trayectorias relativas.
+
+```
+New-Item -ItemType Directory ..\..\..\..\p3\d\d1
+```
+
+<img width="508" height="162" alt="imagen" src="https://github.com/user-attachments/assets/58bbb634-4e94-4579-b03e-818ea4d58dd4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
