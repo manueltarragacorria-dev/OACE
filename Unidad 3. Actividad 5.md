@@ -139,6 +139,13 @@ Set-Location ..\..\..\out\s1\s2\s32 -> New-Item -ItemType Directory C:\iso\p2\a\
 
 <img width="834" height="410" alt="imagen" src="https://github.com/user-attachments/assets/35f2c94f-7074-415f-ab89-79c6c3beceb7" />
 
+### 5.- Situado en s32 visualiza el árbol de directorios dependiente de iso y comprueba que es exactamente igual que el árbol que se muestra al comienzo del ejercicio.
+
+```
+Tree C:\iso
+```
+
+<img width="302" height="344" alt="imagen" src="https://github.com/user-attachments/assets/dbe1f608-9d22-49c8-b235-205dce319077" />
 
 
 
