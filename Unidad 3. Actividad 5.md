@@ -147,7 +147,10 @@ Tree C:\iso
 
 <img width="302" height="344" alt="imagen" src="https://github.com/user-attachments/assets/dbe1f608-9d22-49c8-b235-205dce319077" />
 
+### 6.- Situado en s32 mueve el directorio e1 a p3 utilizando trayectoria relativa.
 
+```
+Move-Item 
 
 
 
