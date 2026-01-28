@@ -33,4 +33,29 @@ Add-LocalGroupMember -Group "Usuarios" -Member "usuario_ps"
 
 <img width="480" height="39" alt="imagen" src="https://github.com/user-attachments/assets/c26b8cf1-aa4c-4540-b22c-b9a725dc5bae" />
 
+## Paso 5: Verificar la creación del usuario
+
+```
+Get-LocalUser -Name "usuario_ps"
+```
+
+<img width="285" height="98" alt="imagen" src="https://github.com/user-attachments/assets/472a821a-92a2-4994-962c-5b76794abd64" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
