@@ -1,6 +1,6 @@
 # UNIDAD 3. ACTIVIDAD 7. CREACIÓN USUARIOS POWERSHELL
 
-## Paso 2: Comprobar usuarios existentes
+## Paso 1: Comprobar usuarios existentes
 
 ```
 Get-LocalUser
