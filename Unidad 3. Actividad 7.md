@@ -25,5 +25,12 @@ New-LocalUser
 
 <img width="480" height="169" alt="imagen" src="https://github.com/user-attachments/assets/70c1664b-c2ae-43e8-83b2-90fb1ac6a6f8" />
 
+# Paso 4: Añadir el usuario a un grupo
+
+```
+Add-LocalGroupMember -Group "Usuarios" -Member "usuario_ps"
+```
+
+<img width="480" height="39" alt="imagen" src="https://github.com/user-attachments/assets/c26b8cf1-aa4c-4540-b22c-b9a725dc5bae" />
 
 
