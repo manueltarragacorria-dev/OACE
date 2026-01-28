@@ -5,6 +5,15 @@
 ```
 Get-LocalUser
 ```
+<img width="997" height="242" alt="imagen" src="https://github.com/user-attachments/assets/bbee5920-7740-4c5c-a960-452e2a1337d2" />
 
-<img width="1085" height="245" alt="image" src="https://github.com/user-attachments/assets/10af93f9-77d7-4f2d-9b14-1e54b1870bcf" />
+
+## Paso 2: Crear una contraseña segura 
+
+```
+$Password = Read-Host "Introduce la contraseña" -AsSecureString
+```
+
+<img width="365" height="60" alt="imagen" src="https://github.com/user-attachments/assets/b79c98bb-b396-4263-a678-34e7aa36385d" />
+
 
