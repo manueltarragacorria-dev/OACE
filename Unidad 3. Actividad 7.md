@@ -14,6 +14,16 @@ Get-LocalUser
 $Password = Read-Host "Introduce la contraseña" -AsSecureString
 ```
 
-<img width="365" height="60" alt="imagen" src="https://github.com/user-attachments/assets/b79c98bb-b396-4263-a678-34e7aa36385d" />
+<img width="494" height="54" alt="imagen" src="https://github.com/user-attachments/assets/2a8c7d10-b39c-4de5-8745-d18f1df1ce40" />
+
+
+## Paso 3: Crear el usuario local
+
+```
+New-LocalUser
+```
+
+<img width="480" height="169" alt="imagen" src="https://github.com/user-attachments/assets/70c1664b-c2ae-43e8-83b2-90fb1ac6a6f8" />
+
 
 
