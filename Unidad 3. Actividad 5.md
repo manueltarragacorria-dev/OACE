@@ -172,7 +172,21 @@ Move-Item C:\iso\p2\c\c11, C:\iso\p2\c\c12
 
 <img width="540" height="39" alt="imagen" src="https://github.com/user-attachments/assets/39b2e77a-b835-4270-ad1b-fbbd274b6491" />
 
+### 9.- Utiliza la sentencia para acceder a la raíz de tu unidad. Una vez allí elimina p1.
 
+```
+Set-Location / -> Remove-Item C:\iso\p1
+```
+
+<img width="300" height="54" alt="imagen" src="https://github.com/user-attachments/assets/dd188146-44ee-4701-9ee2-a2ab706809c9" />
+
+### 10.- Sitúate en a1. Elimina e1 con una única sentencia.
+
+```
+Set-Location iso\p2\a\a1 -> Remove-Item C:\iso\p3\e1 -Recurse
+```
+
+<img width="368" height="54" alt="imagen" src="https://github.com/user-attachments/assets/5c418468-4e58-4f80-9ec9-d2eab1b62a06" />
 
 
 
