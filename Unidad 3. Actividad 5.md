@@ -155,7 +155,7 @@ Move-Item ..\..\..\..\in\e1 ..\..\..\..\..\p3
 
 <img width="515" height="50" alt="imagen" src="https://github.com/user-attachments/assets/cc7f666a-0ab9-454a-83b1-3952aba32878" />
 
-## 7.- Situado en s32 cambia el nombre del directorio e2 por nuevoe2 utilizando trayectoria absoluta.
+### 7.- Situado en s32 cambia el nombre del directorio e2 por nuevoe2 utilizando trayectoria absoluta.
 
 ```
 Rename-Item C:\iso\p3\e1\e2 C:\iso\p3\e1\nuevoe2
@@ -164,6 +164,13 @@ Rename-Item C:\iso\p3\e1\e2 C:\iso\p3\e1\nuevoe2
 
 <img width="540" height="36" alt="imagen" src="https://github.com/user-attachments/assets/2cf6b587-c477-46d7-acb2-d1b4b182f7b3" />
 
+### 8.- Situado en s32 elimina los directorios c11 y c12 con una única sentencia.
+
+```
+Move-Item C:\iso\p2\c\c11, C:\iso\p2\c\c12
+```
+
+<img width="540" height="39" alt="imagen" src="https://github.com/user-attachments/assets/39b2e77a-b835-4270-ad1b-fbbd274b6491" />
 
 
 
