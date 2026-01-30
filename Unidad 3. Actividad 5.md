@@ -188,7 +188,12 @@ Set-Location iso\p2\a\a1 -> Remove-Item C:\iso\p3\e1 -Recurse
 
 <img width="368" height="54" alt="imagen" src="https://github.com/user-attachments/assets/5c418468-4e58-4f80-9ec9-d2eab1b62a06" />
 
+### 11.- Ejecuta la orden para visualizar el árbol de directorios dependientes del directorio iso
 
+```
+Tree C:\iso
+```
+<img width="374" height="191" alt="imagen" src="https://github.com/user-attachments/assets/06480f68-4f44-41a3-99b1-d56f61b24657" />
 
 
 
