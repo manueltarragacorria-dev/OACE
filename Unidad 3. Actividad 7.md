@@ -46,6 +46,12 @@ Get-LocalUser -Name "usuario_ps"
 ## ACTIVIDAD 2
 
 ### PARTE 1: CREAR EL ARCHIVO CSV CON LOS USUARIOS
+#### 1. Abre el Bloc de notas
+#### 2. Escribe el siguiente contenido:
+
+<img width="482" height="115" alt="imagen" src="https://github.com/user-attachments/assets/03805abd-a049-42ec-a285-04075959d080" />
+
+
 
 
 
