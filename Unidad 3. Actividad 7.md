@@ -51,8 +51,29 @@ Get-LocalUser -Name "usuario_ps"
 
 <img width="482" height="115" alt="imagen" src="https://github.com/user-attachments/assets/03805abd-a049-42ec-a285-04075959d080" />
 
+### PARTE 2: CREAR EL SCRIPT DE POWERSHELL
 
+#### 1. Abre el Bloc de notas o VS Code
+#### Escribe el siguiente Script: 
 
+<img width="713" height="624" alt="imagen" src="https://github.com/user-attachments/assets/f7bdc094-50c2-49f9-bc42-4927f01f0296" />
+
+### PARTE 3: EJECUTAR EL SCRIPT
+
+#### Paso 1: Permitir ejecución de scripts (si es necesario)
+```
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+<img width="991" height="120" alt="imagen" src="https://github.com/user-attachments/assets/44dbab53-fb0e-457e-bf4e-8d91d54e9d5e" />
+
+#### Paso 2: Ejecutar el script 
+
+```
+Set-Location C:\Scripts -> .\crear_usuarios.ps1
+```
+
+<img width="369" height="108" alt="imagen" src="https://github.com/user-attachments/assets/4cbfbea2-2418-45d0-8893-2f294e214080" />
 
 
 
