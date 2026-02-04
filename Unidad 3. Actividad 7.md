@@ -76,6 +76,7 @@ Set-Location C:\Scripts -> .\crear_usuarios.ps1
 <img width="369" height="108" alt="imagen" src="https://github.com/user-attachments/assets/4cbfbea2-2418-45d0-8893-2f294e214080" />
 
 
+<img width="990" height="176" alt="imagen" src="https://github.com/user-attachments/assets/f73a2932-826c-4b0b-b349-d1cac28e416a" />
 
 
 
