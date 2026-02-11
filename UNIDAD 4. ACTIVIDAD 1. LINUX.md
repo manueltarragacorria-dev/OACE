@@ -51,6 +51,11 @@ cd /home/administrador/SMM
 
 ## 7.- Desde aquí elimina los directorios (prac311, prac31, teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas
 
+```
+rm -r 2_eval/prac3/prac31 3_eval/teoriaa 1_eval/teoria/t1 1_eval/practica/p1a
+```
+
+<img width="937" height="96" alt="imagen" src="https://github.com/user-attachments/assets/ac53874b-0eab-4f4d-80dc-3173ccdeac33" />
 
 
 
