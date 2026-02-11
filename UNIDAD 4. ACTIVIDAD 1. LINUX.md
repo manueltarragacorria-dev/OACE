@@ -49,6 +49,8 @@ cd /home/administrador/SMM
 
 <img width="597" height="96" alt="imagen" src="https://github.com/user-attachments/assets/5c8ecaea-a208-4f0c-bff5-3e5f50c1a0b4" />
 
+## 7.- Desde aquí elimina los directorios (prac311, prac31, teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas
+
 
 
 
