@@ -26,6 +26,11 @@ cd /home/administrador/SMM -> mkdir 2_eval
 
 ## 4.- Accede al directorio 2_eval. Desde aquí crea los directorios (prac1, prac2, prac3) con una única sentencia.
 
+```
+mkdir prac1 prac2 prac3
+```
+
+<img width="538" height="113" alt="imagen" src="https://github.com/user-attachments/assets/daf9cd37-fef9-4515-8c8f-660ffb954913" />
 
 
 
