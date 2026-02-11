@@ -32,5 +32,31 @@ mkdir prac1 prac2 prac3
 
 <img width="538" height="113" alt="imagen" src="https://github.com/user-attachments/assets/daf9cd37-fef9-4515-8c8f-660ffb954913" />
 
+## 5.- Accede al directorio prac3. Desde aquí crea los directorios (prac31, prac311) usando trayectorias relativas.
+
+```
+cd prac3 -> mkdir -p prac31/prac311
+```
+
+<img width="575" height="113" alt="imagen" src="https://github.com/user-attachments/assets/20c72f73-942d-4822-9085-14d47317fc46" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
