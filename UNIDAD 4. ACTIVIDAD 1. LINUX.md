@@ -16,6 +16,15 @@ mkdir -p ../../../../3_eval/teoriaa/teoriab
 
 <img width="853" height="113" alt="imagen" src="https://github.com/user-attachments/assets/10d7b7db-ce55-4822-8630-3b58a030c4b1" />
 
+## 3.- Desde el directorio SMM crea el directorio (2_eval).
+
+```
+cd /home/administrador/SMM -> mkdir 2_eval
+```
+
+<img width="695" height="113" alt="imagen" src="https://github.com/user-attachments/assets/18adc8e7-b7bf-4fef-bdd4-59d1a577d930" />
+
+## 4.- Accede al directorio 2_eval. Desde aquí crea los directorios (prac1, prac2, prac3) con una única sentencia.
 
 
 
