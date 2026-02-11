@@ -41,6 +41,13 @@ cd prac3 -> mkdir -p prac31/prac311
 <img width="575" height="113" alt="imagen" src="https://github.com/user-attachments/assets/20c72f73-942d-4822-9085-14d47317fc46" />
 
 
+## 6.- Accede al directorio SMM usando trayectoria absoluta con una única sentencia
+
+```
+cd /home/administrador/SMM
+```
+
+<img width="597" height="96" alt="imagen" src="https://github.com/user-attachments/assets/5c8ecaea-a208-4f0c-bff5-3e5f50c1a0b4" />
 
 
 
