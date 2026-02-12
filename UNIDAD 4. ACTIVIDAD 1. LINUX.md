@@ -59,10 +59,35 @@ rm -r 2_eval/prac3/prac31 3_eval/teoriaa 1_eval/teoria/t1 1_eval/practica/p1a
 
 ## 8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
 
+```
+cd 2_eval
+```
 
+<img width="339" height="124" alt="imagen" src="https://github.com/user-attachments/assets/4edfa3ed-c28a-4b50-bdf5-984f146344c4" />
 
+## 9.- Desde aquí cambia el nombre del directorio prac1 por el de prac4. (El comando sería el mv →investiga en la ayuda de Linux. Recuerda que el comando de ayuda es man).
 
+```
+mv prac1 prac4
+```
 
+<img width="439" height="188" alt="imagen" src="https://github.com/user-attachments/assets/22fa41bd-fb11-479c-8380-a29b112ead01" />
+
+## 10.- Desde aquí sitúa el directorio prac4 dentro del directorio prac3.
+
+```
+mv prac4 prac3/prac4
+```
+
+<img width="492" height="188" alt="imagen" src="https://github.com/user-attachments/assets/18b0cc36-0529-45b6-bc13-fb865e58d41b" />
+
+## 11.- Desde aquí elimina los directorios (1_eval, 3_eval)
+
+```
+rmdir -r ../1_eval ../3_eval
+```
+
+<img width="664" height="226" alt="imagen" src="https://github.com/user-attachments/assets/bc809152-0f02-4bab-8678-4b9ca73c4bda" />
 
 
 
