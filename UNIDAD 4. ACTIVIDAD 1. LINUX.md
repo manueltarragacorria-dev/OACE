@@ -57,6 +57,8 @@ rm -r 2_eval/prac3/prac31 3_eval/teoriaa 1_eval/teoria/t1 1_eval/practica/p1a
 
 <img width="937" height="96" alt="imagen" src="https://github.com/user-attachments/assets/ac53874b-0eab-4f4d-80dc-3173ccdeac33" />
 
+## 8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
+
 
 
 
