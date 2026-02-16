@@ -98,6 +98,29 @@ man cal -> cal 01 2021
 <img width="1008" height="942" alt="imagen" src="https://github.com/user-attachments/assets/847f4d35-52af-45a8-a4df-5a7130aacc2d" />
 <img width="345" height="278" alt="imagen" src="https://github.com/user-attachments/assets/b326f236-bbae-459d-8d3e-915022cfbed7" />
 
+## 13.- Ejecuta el comando cal y redirecciónalo a un fichero llamado calendario.
+
+```
+cal > /home/administrador/Documentos/calendario
+```
+
+<img width="636" height="92" alt="imagen" src="https://github.com/user-attachments/assets/eae247b1-4a69-4a42-9bdb-98874dd8a6a6" />
+
+## 14.- Muestra el contenido del fichero calendario (Recuerda que el comando para ver el contenido de un fichero es cat)
+
+```
+cat /home/administrador/Documentos/calendario
+```
+
+<img width="615" height="217" alt="imagen" src="https://github.com/user-attachments/assets/2ac67680-eb33-42a9-a4b8-ea53f211af7a" />
+
+## 15.- Ejecuta la orden ls –l del directorio activo. ¿Cuál es la máscara de calendario (10 primeros elementos de la izquierda)?
+
+```
+ls -l
+```
+
+<img width="908" height="186" alt="imagen" src="https://github.com/user-attachments/assets/e939efd3-7c4f-458f-ab5c-eed2c4b45b5e" />
 
 
 
