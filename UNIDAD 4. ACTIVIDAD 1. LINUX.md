@@ -89,6 +89,14 @@ rmdir -r ../1_eval ../3_eval
 
 <img width="664" height="226" alt="imagen" src="https://github.com/user-attachments/assets/bc809152-0f02-4bab-8678-4b9ca73c4bda" />
 
+## 12.- Consulta la ayuda del comando cal (Recuerda que el comando de ayuda es man). Utiliza dicho comando para visualizar el calendario del mes de enero de 2021.
+
+```
+man cal -> cal 01 2021
+```
+
+<img width="1008" height="942" alt="imagen" src="https://github.com/user-attachments/assets/847f4d35-52af-45a8-a4df-5a7130aacc2d" />
+<img width="345" height="278" alt="imagen" src="https://github.com/user-attachments/assets/b326f236-bbae-459d-8d3e-915022cfbed7" />
 
 
 
