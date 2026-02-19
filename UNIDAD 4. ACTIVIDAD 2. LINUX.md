@@ -24,3 +24,4 @@ cp -r ../A ../D -> rm -r ../A
 
 <img width="414" height="36" alt="imagen" src="https://github.com/user-attachments/assets/61b33a2b-9b44-4290-9352-b0ef0cbc9070" />
 
+## 4.- ¿Cuántas líneas contiene el fichero Orden?¿Cuantas palabras?¿Cuantos caracteres?
