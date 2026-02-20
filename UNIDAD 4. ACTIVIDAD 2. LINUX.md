@@ -38,8 +38,13 @@ wc -m ./C/Orden -> wc -w ./C/Orden -> wc -l ./C/Orden
 
 ## 5.- Crea en D un fichero llamado Nombre que contenga tu nombre y otro fichero llamado Apellidoque contenga tu primer apellido.
 
+```
+echo "Manuel" > ./D/Nombre -> echo "Tarraga" ./D/Apellido
+```
 
+<img width="515" height="137" alt="imagen" src="https://github.com/user-attachments/assets/dba1db10-ffb2-412e-ab52-4f3dd2c369d8" />
 
+## 6.- Pon todos los permisos al propietario del fichero Nombre (mantén los permisos que teníangrupo y otros). Utiliza sistema octal.
 
 
 
