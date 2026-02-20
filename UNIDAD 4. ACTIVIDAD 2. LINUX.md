@@ -46,6 +46,11 @@ echo "Manuel" > ./D/Nombre -> echo "Tarraga" ./D/Apellido
 
 ## 6.- Pon todos los permisos al propietario del fichero Nombre (mantén los permisos que teníangrupo y otros). Utiliza sistema octal.
 
+```
+ls -l ./D -> chmod 764 ./D/Nombre
+```
+
+<img width="632" height="213" alt="imagen" src="https://github.com/user-attachments/assets/65c8d656-d59c-404a-83e6-5b361e5fd776" />
 
 
 
