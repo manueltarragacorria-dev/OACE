@@ -30,6 +30,46 @@ cp -r ../A ../D -> rm -r ../A
 
 ## 4.- ¿Cuántas líneas contiene el fichero Orden?¿Cuantas palabras?¿Cuantos caracteres?
 
+```
+wc -m ./C/Orden -> wc -w ./C/Orden -> wc -l ./C/Orden
+```
+
+<img width="404" height="217" alt="imagen" src="https://github.com/user-attachments/assets/32fd88c1-30af-4814-aebd-0467e8cd2d55" />
+
+## 5.- Crea en D un fichero llamado Nombre que contenga tu nombre y otro fichero llamado Apellidoque contenga tu primer apellido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
