@@ -52,7 +52,15 @@ ls -l ./D -> chmod 764 ./D/Nombre
 
 <img width="632" height="213" alt="imagen" src="https://github.com/user-attachments/assets/65c8d656-d59c-404a-83e6-5b361e5fd776" />
 
+## 7.- Pon sólo permiso de lectura (al propietario, grupo y otros) al fichero Apellido sin utilizarsistema octal.
 
+```
+chmod a=r ./D/Apellido
+```
+
+<img width="460" height="121" alt="imagen" src="https://github.com/user-attachments/assets/dc3f0c45-9fc2-4d56-a241-9924cf97e2ad" />
+
+## 8.- Elimina A1, A2 y A3 con trayectoria relativa y utilizando comodines.
 
 
 
