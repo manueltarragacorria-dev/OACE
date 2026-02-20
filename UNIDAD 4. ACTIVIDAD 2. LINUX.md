@@ -68,7 +68,9 @@ rm -r A?
 
 <img width="319" height="94" alt="imagen" src="https://github.com/user-attachments/assets/863737f1-ee18-463e-b982-43e380d77959" />
 
+## 9.- Mueve nuevoA dentro de C. Una vez movido cámbiale el nombre por A. Cambia el nombre deApellido por el de apellido.
 
+```
 
 
 
