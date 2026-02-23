@@ -71,7 +71,7 @@ rm -r A?
 ## 9.- Mueve nuevoA dentro de C. Una vez movido cámbiale el nombre por A. Cambia el nombre deApellido por el de apellido.
 
 ```
-mv ./D/nuevoA ./C/A ->
+mv ./D/nuevoA ./C/A -> mv ./D/Apellido ./D/apellido
 ```
 
 <img width="434" height="93" alt="imagen" src="https://github.com/user-attachments/assets/5fcd9111-273c-4456-8c6f-3ea94bd2b6c4" />
