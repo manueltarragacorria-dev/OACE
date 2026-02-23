@@ -75,6 +75,10 @@ mv ./D/nuevoA ./C/A ->
 ```
 
 <img width="434" height="93" alt="imagen" src="https://github.com/user-attachments/assets/5fcd9111-273c-4456-8c6f-3ea94bd2b6c4" />
+<img width="500" height="93" alt="imagen" src="https://github.com/user-attachments/assets/961c6359-dbdb-4f1e-bd25-6466c374746f" />
+
+## 10.- Crea dentro de A los siguientes directorios “pasta”,”pasto”,”casta”, “casto”, “pasmo”,“casmo”
+
 
 
 
