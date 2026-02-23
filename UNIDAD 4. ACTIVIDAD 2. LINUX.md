@@ -79,11 +79,33 @@ mv ./D/nuevoA ./C/A -> mv ./D/Apellido ./D/apellido
 
 ## 10.- Crea dentro de A los siguientes directorios “pasta”,”pasto”,”casta”, “casto”, “pasmo”,“casmo”
 
+```
+mkdir pasta pasto casta casto pasmo casmo
+```
+<img width="660" height="113" alt="imagen" src="https://github.com/user-attachments/assets/5d0733ef-574f-447e-a547-e79530e61113" />
 
+## 11.- Busca en el fichero Orden cuantas “r” hay. (revisa el comando grep -c)
 
+```
+grep -c "r" ../Orden
+```
+<img width="464" height="113" alt="imagen" src="https://github.com/user-attachments/assets/cb151658-7d0e-49a6-9a49-9fbfec89ed45" />
 
+## 12.- Elimina todos los ficheros que existan con una única sentencia y trayectorias relativas.
 
+```
+rm ./C/Orden ./D/apellido ./D/Nombre
+```
 
+<img width="753" height="113" alt="imagen" src="https://github.com/user-attachments/assets/57a71c7a-29ab-4df4-9e67-0f0d211cbf0b" />
+
+## 13.- Elimina todo lo que dependa de smm y con una única sentencia.
+
+```
+rm -r SMM
+```
+
+<img width="288" height="94" alt="imagen" src="https://github.com/user-attachments/assets/db0c7af7-0083-4794-bb66-1bd8910a7bb8" />
 
 
 
