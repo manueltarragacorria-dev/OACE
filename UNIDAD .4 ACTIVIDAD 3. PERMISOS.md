@@ -21,7 +21,25 @@
 ### chmod 631 prueba1
 <img width="590" height="131" alt="imagen" src="https://github.com/user-attachments/assets/b4c94e1d-63f8-4440-842d-94d0c617df0d" />
 
+## 2.- Si tengo un archivo llamado prueba1 cuya máscara es –rwxr-xr-x del que soy propietario,explica en cada caso como quedarían los permisos de este archivo según vaya ejecutando lassiguientes sentencias de forma consecutiva (el resultado de la anterior sirve para la siguiente).
 
+### chmod g-x prueba1
+<img width="590" height="131" alt="imagen" src="https://github.com/user-attachments/assets/57d3a432-0bc9-47b1-a663-e978d0d6af94" />
+
+### chmod a=x prueba1
+<img width="590" height="131" alt="imagen" src="https://github.com/user-attachments/assets/9a5e008c-2c77-4d6b-a620-05261c57126c" />
+
+### chmod o-x prueba1
+<img width="590" height="131" alt="imagen" src="https://github.com/user-attachments/assets/c35c0937-be34-4963-acf7-0be3aec9662e" />
+
+### chmod a+w prueba1
+<img width="590" height="131" alt="imagen" src="https://github.com/user-attachments/assets/c7bb6ea3-deed-4727-a0ee-179f1ea2f584" />
+
+### chmod u+r prueba1
+<img width="590" height="131" alt="imagen" src="https://github.com/user-attachments/assets/3e9d2217-de61-43dc-9312-ecc9a2f22be6" />
+
+### chmod a=- prueba1
+<img width="578" height="129" alt="imagen" src="https://github.com/user-attachments/assets/e7a0df4e-4d75-47ed-b196-323214fa27bc" />
 
 
 
