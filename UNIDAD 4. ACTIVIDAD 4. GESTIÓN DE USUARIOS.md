@@ -3,7 +3,7 @@
 ## 1.- Crea en tu SO al usuario prueba1 (contraseña Admin2223), grupo de referencia smra (hay quecrear el grupo)
 <img width="666" height="288" alt="imagen" src="https://github.com/user-attachments/assets/876437a8-456a-4fe7-851e-8381e3846de0" />
 
-
+## 2.- Crea en tu SO al usuario Prueba2 ¡Ojo que está en mayúscula la primera letra !(contraseñaAdmin2223) grupo de referencia 1SMRBgru
 
 
 
