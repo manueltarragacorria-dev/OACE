@@ -19,12 +19,21 @@ sudo groupadd grupotest
 
 ## 3- Metemos a tu usuario en el grupo “grupotest”
 
+```
+sudo usermod -aG grupotest manuel
+```
 
 <img width="676" height="133" alt="imagen" src="https://github.com/user-attachments/assets/37df0a4c-a47a-4a1c-9a0e-e76f7a4ce25a" />
 
+## 4- Cambia el nombre de tu usuario, por usuario2, en mi caso “alex2”
 
+```
+sudo usermod -l manuel2 manuel
+```
 
+<img width="676" height="133" alt="imagen" src="https://github.com/user-attachments/assets/36a33408-801a-4c0f-840a-d06e9c449436" />
 
+## 5- Cambia la carpeta de referencia de usuario, en mi caso de /home/alex a home/alex2
 
 
 
