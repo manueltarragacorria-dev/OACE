@@ -1,13 +1,26 @@
 # UNIDAD 4. ACTIVIDAD 4. GESTIÓN DE USUARIOS
 
-## 1.- Crea en tu SO al usuario prueba1 (contraseña Admin2223), grupo de referencia smra (hay quecrear el grupo)
-<img width="666" height="288" alt="imagen" src="https://github.com/user-attachments/assets/876437a8-456a-4fe7-851e-8381e3846de0" />
+## 1.- Crea en tu SO a un usuario con tu nombre (en mi caso “alex”). Contraseña 2fpb1234
 
-## 2.- Crea en tu SO al usuario Prueba2 ¡Ojo que está en mayúscula la primera letra !(contraseñaAdmin2223) grupo de referencia 1SMRBgru
+```
+sudo useradd manuel -> sudo passwd manuel
+```
+
+<img width="676" height="201" alt="imagen" src="https://github.com/user-attachments/assets/c96c4c99-2051-4cc5-a6ce-1d6b2b14e238" />
 
 
+## 2- Crea el grupo “grupotest”
+
+```
+sudo groupadd grupotest
+```
+
+<img width="676" height="112" alt="imagen" src="https://github.com/user-attachments/assets/4f6c722f-681a-4c36-8d85-d7241b407f67" />
+
+## 3- Metemos a tu usuario en el grupo “grupotest”
 
 
+<img width="676" height="133" alt="imagen" src="https://github.com/user-attachments/assets/37df0a4c-a47a-4a1c-9a0e-e76f7a4ce25a" />
 
 
 
