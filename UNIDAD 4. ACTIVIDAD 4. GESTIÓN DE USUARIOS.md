@@ -41,6 +41,8 @@ sudo usermod -d /home/manuel2 -m manuel2
 
 <img width="676" height="18" alt="imagen" src="https://github.com/user-attachments/assets/fcb8831f-b8f0-4d1e-8d37-611fb0b0fbe7" />
 
+## 6- Intenta crear la carpeta “prueba” en /home/usuario2, en mi caso /home/alex2
+
 
 
 
