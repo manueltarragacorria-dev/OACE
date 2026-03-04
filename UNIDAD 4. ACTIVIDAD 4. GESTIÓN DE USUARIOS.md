@@ -43,8 +43,21 @@ sudo usermod -d /home/manuel2 -m manuel2
 
 ## 6- Intenta crear la carpeta “prueba” en /home/usuario2, en mi caso /home/alex2
 
+```
+mkdir /home/manuel2/prueba
+```
 
+<img width="1024" height="167" alt="imagen" src="https://github.com/user-attachments/assets/8b091380-b155-4d3c-a102-a969e2521cfd" />
 
+## 7- Loguéate con tu usuario y contraseña (comando su)
+
+```
+su manuel2
+```
+
+<img width="1024" height="118" alt="imagen" src="https://github.com/user-attachments/assets/b7fea626-018a-4eae-a7c9-8448bffc6e2e" />
+
+## 8- Intenta crear ahora carpeta en tu usuario
 
 
 
