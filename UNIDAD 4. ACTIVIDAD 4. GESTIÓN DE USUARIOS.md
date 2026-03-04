@@ -59,14 +59,26 @@ su manuel2
 
 ## 8- Intenta crear ahora carpeta en tu usuario
 
+```
+mkdir /home/manuel2/prueba
+```
+<img width="710" height="384" alt="imagen" src="https://github.com/user-attachments/assets/5d7a4362-4ca9-4022-a8e6-b0b6536c2ba8" />
 
+## 9- Volvemos a loguearnos como “administrador” 
 
+```
+su administrador
+```
 
+<img width="368" height="142" alt="imagen" src="https://github.com/user-attachments/assets/b2cc8eeb-1181-45bb-9c2a-479eebc08dd7" />
 
+## 10- Elimina tu usuario creado 
 
+```
+sudo userdel -r manuel2
+```
 
-
-
+<img width="673" height="151" alt="imagen" src="https://github.com/user-attachments/assets/fce9ce2e-22e0-4c44-a67c-35b08d891e85" />
 
 
 
